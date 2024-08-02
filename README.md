@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zakariasalmi
-- 👀 I’m interested in App dev
-- 🌱 I’m currently learning computer engineering
-- 📫 How to reach me ...
+- 👀 I’m a Data scientist
+
 
 <!---
 zakariasalmi/zakariasalmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
