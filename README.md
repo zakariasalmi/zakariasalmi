@@ -7,14 +7,18 @@ what I Do:
 - Data Engineering: Designing and implementing scalable data pipelines.
 
 Skills:
-- Programming: Python, R
-- Data Visualization: Power BI, Tableau
-- Machine Learning: scikit-learn, TensorFlow, Keras
-- Data Engineering: Spark, dbt, Airflow
+- Programming: Python, R, SQL
+- IG DATA & ETL: Spark, Kafka, Cassandra, Hadoop, SSIS, SSAS
+- Visualisation : PowerBi, Tableau, Seaborn, Matplotlib
+- Base de données: MySql, MongoDb, SqlServer
+- IA/ML:  Tensorflow, Pytorch, Keras, Scikit-learn
+- Outils: Docker, Airflow, Dbt, Git
 
 Projects:
-- AI in Football Analytics: Player and ball detection, match statistics extraction.
 - Sentiment Analysis: Analyzing sentiments from social media comments in Arabic and Moroccan Darija.
-- Intelligent Greenhouse: IoT and AI for controlling plant development.
+- Analysis of supermarket sales
+- Real-time data streaming project
+- Intelligent Agriculture - Connected greenhouse
+- AI in Football Analytics: Player and ball detection, match statistics extraction.
   
 Feel free to explore my repositories and connect with me!
