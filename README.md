@@ -18,6 +18,7 @@ Projects:
 - Sentiment Analysis: Analyzing sentiments from social media comments in Arabic and Moroccan Darija.
 - Analysis of supermarket sales
 - Real-time data streaming project
+- Weather Previsions ETL
 - Intelligent Agriculture - Connected greenhouse
 - AI in Football Analytics: Player and ball detection, match statistics extraction.
   
