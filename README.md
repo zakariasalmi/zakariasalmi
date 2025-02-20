@@ -19,6 +19,7 @@ Projects:
 - Analysis of supermarket sales
 - Real-time data streaming project
 - Weather Previsions ETL
+- ETL_Warehouse_SSIS
 - Intelligent Agriculture - Connected greenhouse
 - AI in Football Analytics: Player and ball detection, match statistics extraction.
   
